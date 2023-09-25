@@ -1,5 +1,8 @@
 # Framework Laptop 16
-Framework Laptop 16 is [Framework](/framework-computer-inc)'s second product, announced in March 2023 at the Next Level event [[1]](https://frame.work/blog/introducing-the-framework-laptop-16). They opened pre-orders in July of the same year. [[2]](https://frame.work/blog/framework-laptop-16-pre-orders-are-now-open) 
+Framework Laptop 16 is [Framework](/framework-computer-inc)'s second product, announced in March 2023 at the Next Level event [^1]. They opened pre-orders in July of the same year. [^2]
+
+[^1] Introducing the Framework Laptop 16: https://frame.work/blog/introducing-the-framework-laptop-16.
+[^2] Framework Laptop 16 preorders are now open: https://frame.work/blog/framework-laptop-16-pre-orders-are-now-open
 
 At launch, Framework Laptop 16 is available with AMD Ryzen 7 7840HS and Ryzen 9 7940HS CPUs.
 Customers could also optionally add an AMD Radeon RX7700S GPU, which connects via the [expansion bay](/expansion-bay).
